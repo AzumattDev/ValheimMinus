@@ -69,7 +69,7 @@
             <HintPath>$(GamePath)\BepInEx\core\BepInEx.dll</HintPath>
         </Reference>
         <Reference Include="Mono.Cecil">
-          <HintPath>..\..\..\..\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\core\Mono.Cecil.dll</HintPath>
+          <HintPath>$(GamePath)\BepInEx\core\Mono.Cecil.dll</HintPath>
         </Reference>
         <Reference Include="System" />
         <Reference Include="System.Core" />
